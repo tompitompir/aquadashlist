@@ -1,0 +1,26 @@
+{
+    "id": 175,
+    "name": "never the pills",
+    "author": "S3RF",
+    "creators": ["S3RF"],
+    "verifier": "S3RF",
+    "verification": "https://www.youtube.com/watch?v=aW8pzxWi-Ok",
+    "percentToQualify": "100",
+    "difficulty": "Insane Demon",
+    "skillset": "Ship?, Memory",
+    "notes": "Weird",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=6BkLCrrVZiY",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=T4sZ989mzzg",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

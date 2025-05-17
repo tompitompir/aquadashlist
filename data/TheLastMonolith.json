@@ -1,0 +1,21 @@
+{
+    "id": 501,
+    "name": "The Last Monolith",
+    "author": "Dark",
+    "creators": ["Dark","S3RF"],
+    "verifier": "S3RF",
+    "verification": "https://www.youtube.com/watch?v=NZErTBydrdg",
+    "percentToQualify": "100",
+    "difficulty": "Insane Demon",
+    "skillset": "Wave",
+    "notes": "Nine circles level",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=6BkLCrrVZiY",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+
+    ]
+}

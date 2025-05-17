@@ -1,0 +1,19 @@
+{
+    "id": 381,
+    "name": "Speedtrap",
+    "author": "Firedash",
+    "creators": ["Firedash"],
+    "verifier": "Firedash",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Medium Demon",
+    "records": [
+	{
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+
+    ]
+}

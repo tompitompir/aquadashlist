@@ -1,0 +1,19 @@
+{
+    "id": 288,
+    "name": "Eurotrance",
+    "author": "Firedash",
+    "creators": ["Firedash"],
+    "verifier": "Firedash",
+    "verification": "https://www.youtube.com/watch?v=sY7j2yzAOeo",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "skillset": "Consistency",
+    "records": [
+	{
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=_Aahit2dLHc",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

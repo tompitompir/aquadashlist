@@ -1,0 +1,30 @@
+{
+    "id": 282,
+    "name": "Cigarette Ahegao",
+    "author": "MechanicGD",
+    "creators": ["MechanicGD"],
+    "verifier": "MechanicGD",
+    "verification": "https://youtu.be/u5d93mvbJY8",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=16IkqhnKq3Q&ab_channel=Damnned",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "Axzyr",
+            "link": "https://www.youtube.com/watch?v=d0g31uYeXyw",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=16IkqhnKq3Q&ab_channel=Damnned",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

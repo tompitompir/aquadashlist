@@ -1,0 +1,19 @@
+{
+    "id": 251,
+    "name": "Solar City",
+    "author": "ItsCreando",
+    "creators": ["ItsCreando"],
+    "verifier": "MechanicGD",
+    "verification": "https://youtu.be/MvnTNymMB34",
+    "percentToQualify": "63",
+    "difficulty": "Extreme Demon",
+    "skillset": "Ufo, Wave",
+    "records": [
+        {
+            "user": "Slopes",
+            "link": "https://youtu.be/0FJhcvuITOk",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

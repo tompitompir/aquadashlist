@@ -1,0 +1,18 @@
+{
+    "id": 154,
+    "name": "Laughterhouse",
+    "author": "Daewe",
+    "creators": ["Daewe"],
+    "verifier": "Daewe",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Medium Demon",
+    "records": [
+        {
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

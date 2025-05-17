@@ -1,0 +1,19 @@
+{
+    "id": 458,
+    "name": "Mi a kedvenc tantargyad",
+    "author": "Firedash",
+    "creators": ["Firedash"],
+    "verifier": "Firedash",
+    "verification": "https://www.youtube.com/watch?v=b7cYlSbDhsw",
+    "percentToQualify": "100",
+    "difficulty": "Insane Demon",
+    "skillset": "Memory, Weird",
+    "records": [
+        {
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

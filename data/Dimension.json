@@ -1,0 +1,18 @@
+{
+    "id": 128,
+    "name": "Dimension",
+    "author": "HommaS",
+    "creators": ["HommaS"],
+    "verifier": "HommaS",
+    "verification": "https://www.youtube.com/watch?v=Z529Cir-uRw",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "records": [
+        {
+            "user": "S3RF",
+            "link": "https://youtu.be/oZK1gM0raUg?si=yEWTf8oFLvBnS_Ld",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

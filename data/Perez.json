@@ -1,0 +1,19 @@
+{
+    "id": 612,
+    "name": "Perez",
+    "author": "Firedash",
+    "creators": ["Firedash"],
+    "verifier": "S3RF",
+    "verification": "https://www.youtube.com/watch?v=Ik8NAbLlHlw",
+    "percentToQualify": "100",
+    "difficulty": "Insane Demon",
+    "skillset": "Weird",
+    "records": [
+{
+            "user": "Slopes",
+            "link": "https://youtu.be/U7dxBTVebvQ",
+            "percent": 100,
+            "enjoyment": "?"
+        }    
+]
+}

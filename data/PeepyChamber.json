@@ -1,0 +1,20 @@
+{
+    "id": 95,
+    "name": "peepy chamber",
+    "author": "S3RF",
+    "creators": ["S3RF"],
+    "verifier": "S3RF",
+    "verification": "https://www.youtube.com/watch?v=dfhavXbDGRQ",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "skillset": "Timings",
+    "records": [
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=Wh-1q4V420o",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+
+    ]
+}

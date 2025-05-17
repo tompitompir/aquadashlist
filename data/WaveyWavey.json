@@ -1,0 +1,24 @@
+{
+    "id": 172,
+    "name": "Wavey Wavey",
+    "author": "HommaS",
+    "creators": ["HommaS"],
+    "verifier": "HommaS",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=VdbR8f_3XQ0&ab_channel=xslopes",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 395,
+    "name": "Hexapolis",
+    "author": "HexGaming",
+    "creators": ["HexGaming"],
+    "verifier": "S3RF",
+    "verification": "https://www.youtube.com/watch?v=tefTZFMNxUs",
+    "percentToQualify": "60",
+    "difficulty": "Extreme Demon",
+    "skillset": "Timings, Wave",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=16IkqhnKq3Q&ab_channel=Damnned",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+	{
+            "user": "Slopes",
+            "link": "https://youtu.be/UlyEBBSNep0",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

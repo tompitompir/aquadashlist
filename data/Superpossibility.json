@@ -1,0 +1,32 @@
+{
+    "id": 125,
+    "name": "Superpossibility",
+    "author": "FiredashReupload",
+    "creators": ["Firedash"],
+    "verifier": "S3RF",
+    "verification": "https://www.youtube.com/watch?v=c3Wp5tEtK5U",
+    "percentToQualify": "65",
+    "difficulty": "Extreme Demon",
+    "skillset": "Unbalanced, Wave",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=6BkLCrrVZiY",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "Slopes",
+            "link": "https://www.youtube.com/watch?v=c3Wp5tEtK5U",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "Firedash",
+            "link": "https://www.youtube.com/watch?v=hMRkJCcr08M",
+            "percent": 100,
+            "enjoyment": "4"
+        }
+
+    ]
+}

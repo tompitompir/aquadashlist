@@ -1,0 +1,18 @@
+{
+    "id": 71,
+    "name": "Gigadrift",
+    "author": "Axzyr",
+    "creators": ["Axzyr","Firedash","ryazia"],
+    "verifier": "Axzyr",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Easy Demon",
+    "records": [
+	{
+            "user": "S3RF",
+            "link": "https://youtu.be/YEBuZp81ke0",
+            "percent": 100,
+            "enjoyment": "3"
+        }
+    ]
+}

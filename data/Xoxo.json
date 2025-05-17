@@ -1,0 +1,25 @@
+{
+    "id": 374,
+    "name": "XOXO",
+    "author": "HexGaming",
+    "creators": ["HexGaming"],
+    "verifier": "HexGaming",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Easy Demon",
+    "records": [
+	{
+            "user": "Slopes",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+	{
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "5"
+        }
+
+    ]
+}

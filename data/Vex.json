@@ -1,0 +1,18 @@
+{
+    "id": 257,
+    "name": "vex",
+    "author": "ryazia",
+    "creators": ["ryazia"],
+    "verifier": "ryazia",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Medium Demon",
+    "records": [
+        {
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

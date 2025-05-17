@@ -1,0 +1,19 @@
+{
+    "id": 402,
+    "name": "Midnight is not 2 am",
+    "author": "Slopes",
+    "creators": ["Slopes"],
+    "verifier": "Slopes",
+    "verification": "https://www.youtube.com/watch?v=fKQ8ZJC9gXQ",
+    "percentToQualify": "63",
+    "difficulty": "Extreme Demon",
+    "skillset": "Wave, Ship",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=16IkqhnKq3Q&ab_channel=Damnned",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 526,
+    "name": "dist0rti0n",
+    "author": "Daewe",
+    "creators": ["Daewe"],
+    "verifier": "Daewe",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Easy Demon",
+    "records": [
+        {
+            "user": "Firedash",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+	{
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 47,
+    "name": "Buff Machine",
+    "author": "HommaS",
+    "creators": ["HommaS"],
+    "verifier": "HommaS",
+    "verification": "https://www.youtube.com/watch?v=XfecrqCrDFQ",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "skillset": "Cube, Timings",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "S3RF",
+            "link": "https://youtu.be/Jh0zfqMb5X0?si=q8-x-4Y7fg6_V_x2",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

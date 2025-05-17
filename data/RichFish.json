@@ -1,0 +1,18 @@
+{
+    "id": 497,
+    "name": "Rich Fish",
+    "author": "Firedash",
+    "creators": ["Firedash"],
+    "verifier": "Firedash",
+    "verification": "https://www.youtube.com/watch?v=xKtp8JfeLs4",
+    "percentToQualify": "100",
+    "difficulty": "Hard Demon",
+    "records": [
+{
+            "user": "S3RF",
+            "link": "https://www.youtube.com/watch?v=8-lfgo_MzCs",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 442,
+    "name": "Glistyte",
+    "author": "Firedash",
+    "creators": ["Firedash"],
+    "verifier": "Firedash",
+    "verification": "https://www.youtube.com/watch?v=30_aP-Miuls",
+    "percentToQualify": "100",
+    "difficulty": "Insane Demon",
+    "skillset": "Wave",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=O0cC9cPah7Y",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "MechanicGD",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

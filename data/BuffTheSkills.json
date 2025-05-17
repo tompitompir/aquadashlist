@@ -1,0 +1,25 @@
+{
+    "id": 458,
+    "name": "Buff The Skills",
+    "author": "HexGaming",
+    "creators": ["HexGaming"],
+    "verifier": "S3RF",
+    "verification": "https://www.youtube.com/watch?v=CjpOeOUGDPA",
+    "percentToQualify": "100",
+    "difficulty": "Insane Demon",
+    "skillset": "Memory, Ship",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+        {
+            "user": "Slopes",
+            "link": "https://youtu.be/rE15VZQoMiI",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 455,
+    "name": "Chalk",
+    "author": "Axzyr",
+    "creators": ["Axzyr"],
+    "verifier": "S3RF",
+    "verification": "https://youtu.be/rX7z7s3zDS0",
+    "percentToQualify": "100",
+    "difficulty": "Insane Demon",
+    "skillset": "Timings",
+    "records": [
+        {
+            "user": "Slopes",
+            "link": "https://youtu.be/0FJhcvuITOk",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+    ]
+}

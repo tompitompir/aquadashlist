@@ -1,0 +1,25 @@
+{
+    "id": 348,
+    "name": "IRIS",
+    "author": "FORTUNE",
+    "creators": ["FORTUNE"],
+    "verifier": "FORTUNE",
+    "verification": "",
+    "percentToQualify": "100",
+    "difficulty": "Easy Demon",
+    "records": [
+        {
+            "user": "S3RF",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        },
+	{
+            "user": "Slopes",
+            "link": "",
+            "percent": 100,
+            "enjoyment": "?"
+        }
+
+    ]
+}
